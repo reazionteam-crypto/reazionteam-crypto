@@ -1,4 +1,4 @@
-# Hi, I'm Reza Ebrahimzadeh
+# Hi, I'm Reza Ebrahimzadeh.
 
 ## AI & Machine Learning
 

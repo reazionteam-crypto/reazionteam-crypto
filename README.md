@@ -1,7 +1,5 @@
 # Hi, I'm Reza Ebrahimzadeh.
 
-## AI & Machine Learning
-
 I'm a student exploring Artificial Intelligence, Machine Learning, and Data Science.
 Currently focused on building a strong foundation in Python, data analysis, and machine learning.
 

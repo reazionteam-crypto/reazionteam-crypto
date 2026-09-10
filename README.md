@@ -15,6 +15,7 @@ I'm also building Reazion Team, an emerging team focused on learning, experiment
 - Seaborn
 - Scikit-learn
 - Selenium
+- Jupyter Notebook
 - Git & GitHub
 
 ## Currently Learning
